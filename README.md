@@ -7,7 +7,7 @@ This is a project made for the old curriculum on FreeCodeCamp which required the
 
 This is how it looks like.
 
-![Screenshot](Screenshot.png "Screenshot")
+![Screenshot](screenshot.gif "Screenshot")
 
 #### User Stories
 
